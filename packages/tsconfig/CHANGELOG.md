@@ -1,5 +1,12 @@
 # @repo/tsconfig
 
+## 0.0.4
+
+### Patch Changes
+
+- [`ba4b91c`](https://github.com/GeKorm/better-auth-harmony/commit/ba4b91cd0cbf82013bb4ed2d11578ba8dc788d6f)
+  Thanks [@GeKorm](https://github.com/GeKorm)! - Upgrade dependencies
+
 ## 0.0.3
 
 ### Patch Changes
